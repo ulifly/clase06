@@ -13,4 +13,5 @@ const tareaDeportes = () =>{
   console.log("tarea de deportes completada");
 }
 
+// Llamando a la función hacerTarea con una tarea y un callback
 hacerTarea('matemáticas', tareaDeportes)
